@@ -1,2 +1,2 @@
-# Transformes
- Batalha de Transformes em Portugol
+# Pokemon
+ Batalha de Pokemon em Portugol no terminal.
