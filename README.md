@@ -1,2 +1,2 @@
 # Pokemon
- Batalha de Pokemon em Portugol no terminal.
+ Batalha de Pokemon no terminal.
